@@ -13,7 +13,6 @@
     "@langchain/anthropic": "^0.3.13",
     "@langchain/core": "^0.3.26",
     "@langchain/langgraph": "^0.2.36",
-    "@langchain/openai": "^0.3.16",
     "grammy": "^1.33.0",
     "messages": "link:@langchain/core/messages",
     "move-agent-kit": "^0.0.2",
