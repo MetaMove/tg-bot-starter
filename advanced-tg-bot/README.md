@@ -3,7 +3,7 @@
 This example showcases how we can make a telegram bot with the Aptos Agent Kit.
 
 ## Quick Deploy
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMetaMove%2Fmove-agent-kit%2Ftree%2Fmain%2Fexamples%2Ftg-bot&env=APTOS_PRIVATE_KEY,PANORA_API_KEY,TELEGRAM_BOT_TOKEN&project-name=move-agent-kit&repository-name=move-agent-kit-tgbot)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMetaMove%2Ftg-bot-starter%2Ftree%2Fmain%2Fadvanced-tg-bot&env=ANTHROPIC_API_KEY,PANORA_API_KEY,TELEGRAM_BOT_TOKEN,NEXT_PUBLIC_FIREBASE_API_KEY,NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,NEXT_PUBLIC_FIREBASE_PROJECT_ID,NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,NEXT_PUBLIC_FIREBASE_APP_ID,NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID&project-name=advanced-tg-bot&repository-name=advanced-tg-bot)
 
 ## How to get the telegram bot token
 
